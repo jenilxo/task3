@@ -1,4 +1,4 @@
-# task3
+# Task 3 Video Chat App
 
 Live Streaming Video Chat App without voice using cv2 module of Python
 
